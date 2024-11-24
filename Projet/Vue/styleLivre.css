@@ -1,0 +1,39 @@
+
+.srch{
+    padding-left: 1200px;
+
+}
+
+header{
+    height: 150px;
+    width: 1655px;
+    background-color:white ;
+}
+li a{
+color: rgb(100, 100, 195);
+text-decoration: none;
+font-size: 25px;
+font-weight: bold;
+}
+
+h1{
+    
+    color: rgb(100, 100, 195);
+    
+    
+}
+.navH1{
+    margin: 50px;
+}
+nav{
+    float: right;
+    word-spacing: 30px;
+    padding: 30px 50px ;
+}
+nav li{
+    display: inline-block;
+    /*float: left;
+    padding-left: 50px;*/
+    line-height:80px;
+
+}
